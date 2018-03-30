@@ -55,7 +55,7 @@ key strike...
 */  process.stdin.setRawMode(true);
 
 // Narrative user update...
-    log('Listening for custom keybindings... Use "ctrl-x" or "ctrl-c" to quit, or "ctrl-w" to pause.\n', '#3F3')
+    log('Listening for custom keybindings... Use "ctrl-x" or "ctrl-c" to quit, or "ctrl-w" to pause.\n', ['green', 'bold'])
   }
 
   return keys
