@@ -8,12 +8,12 @@ with a few default keybindings...
 ## Installation
 ### npm:
 ```
-$ npm i keyListener --save-dev
+$ npm i @ejames9/keylistener --save-dev
 ```
 ## Usage:
 Firstly, you must get your `keys` function from the `keyListener` package, like so:
 ```js
-const keys = require('keyListener')
+const keys = require('@ejames9/keylistener')
 ```
 Then you may use it like such:
 

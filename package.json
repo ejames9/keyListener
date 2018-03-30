@@ -1,5 +1,5 @@
 {
-  "name": "gulp-keylistener",
+  "name": "@ejames9/keylistener",
   "version": "0.1.11",
   "description": "A `keys` function which can be used for listening for/reacting to keystrokes..",
   "main": "index.js",
@@ -16,13 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ejames9/gulp-keylistener.git"
+    "url": "git+https://github.com/ejames9/keyListener.git"
   },
   "author": "Eric James Foster",
   "license": "MIT",
   "dependencies": {
     "elementsJS": "^0.9.30",
-    "gulp": "^4.0.0",
     "keypress": "^0.2.1"
   }
 }
