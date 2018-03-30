@@ -1,6 +1,6 @@
 {
   "name": "@ejames9/keylistener",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "A `keys` function which can be used for listening for/reacting to keystrokes..",
   "main": "index.js",
   "scripts": {
